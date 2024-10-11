@@ -155,3 +155,4 @@ ________________________________________________________________________________
 #### Bonus: 
 
 You can deploy your dApp on Vercel with the command ´yarn vercel´ (need to connect Vercel and GitHub first).
+# Oct-4-MetisTask
